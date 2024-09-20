@@ -15,7 +15,7 @@ Submission instructions [are given below](#repository-20).
 This assessment brief is available from the beginning of the semester. 
 If anything is unclear, make sure to ask questions well before the deadline.
 
-### Purpose
+## Purpose
 
 The purpose of the assessment is for you to demonstrate ability in the following.
 
@@ -30,7 +30,7 @@ The purpose of the assessment is for you to demonstrate ability in the following
 The assessment consists of three overlapping parts: a GitHub repository containing all your work (20%), a series of tasks (40%), and a small project (40%).
 
 
-### Feedback
+## Feedback
 
 Guidance on your expected progress will be provided during lectures.
 At certain points during the semester, submitted repositories will be reviewed.
@@ -43,7 +43,7 @@ They are based on feedback given to previous students in this and other modules.
 You should treat it as a form of [feed-forward](https://www.qaa.ac.uk/docs/qaas/focus-on/a-student-guide-to-feedback-feedforward.pdf) to help you improve.
 
 
-### Repository (20%)
+## Repository (20%)
 
 Start by creating a new repository on [GitHub](https://github.com).
 Include in it only work that is part of your submission.
@@ -51,7 +51,7 @@ Make sure your final submission is in the `main` branch, though you can use othe
 Your grade will be based on the last commit made on or before the deadline.
 
 
-#### Submit Your Repository Info
+### Submit Your Repository Info
 
 **Immediately** submit your GitHub username and repository name using [this form](https://forms.office.com/e/Bninfm2LeU). 
 The form is only accessible through your ATU student account.  
@@ -59,7 +59,7 @@ You can find your username and repository name in the browser's address bar when
 In the browser's location bar your will see something like `github.com/<username>/<repository_name>/`
 
 
-#### Organize Your Repository
+### Organize Your Repository
 
 Your work should be easy to showcase during a technical interview.
 An interviewer should be able to understand and interact with your work without any assistance.
@@ -72,13 +72,13 @@ To this end, make sure your repository is well-structured and includes:
   - Lowercase file and folder names, except for files like `README.md`.
   - No spaces or special characters in filenames. Underscores, hyphens, and full stops are okay.
 
-#### Private Repositories  
+### Private Repositories  
 
 You can make your repository private.
 If you do, add `ianmcloughlin` [as a collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository#inviting-a-collaborator-to-a-personal-repository).
 
 
-#### Choosing a GitHub Username  
+### Choosing a GitHub Username  
 
 Your GitHub username will be visible to potential employers.
 Choose wisely.
@@ -88,7 +88,7 @@ You can [change your username by following the instructions on GitHub](https://d
 
 
 
-### Tasks (40%)
+## Tasks (40%)
 
 Complete all tasks in a notebook called `tasks.ipynb` in your repository.
 
@@ -104,7 +104,7 @@ Make regular commits to your repository while completing the tasks.
 Your commit history should demonstrate how each solution to each task evolved.
 There should be several commits for each task demonstrating incremental improvements, clarifications, and revisions.
 
-#### Task 1: Permutations and Combinations
+### Task 1: Permutations and Combinations
 
 Suppose we alter the Lady Tasting Tea experiment to involve twelve cups of tea.
 Six have the milk in first and the other six having tea in first.
@@ -121,7 +121,7 @@ Calculate the probability, assuming they have no special powers, that the person
 
 Would you accept two errors? Explain.
 
-#### Task 2: numpy's Normal Distribution
+### Task 2: numpy's Normal Distribution
 
 In this task you will assess whether `numpy.random.normal()` properly generates normal values.
 To begin, generate a sample of one hundred thousand values using the function with mean `10.0` and standard deviation `3.0`.
@@ -131,7 +131,7 @@ Explain the results and output.
 
 Plot a histogram of your values and plot the corresponding normal distribution probability density function on top of it.
 
-#### Task 3: t-Test Calculation
+### Task 3: t-Test Calculation
 
 Consider the following dataset containing resting heart rates for patients before and after embarking on a two-week exercise program.
 
@@ -144,7 +144,7 @@ Calculate the t-statistic based on this data set, using Python.
 Compare it to the value given by `scipy.stats`.
 Explain your work and list any sources used.
 
-#### Task 4: ANOVA
+### Task 4: ANOVA
 
 In this test we will estimate the probability of committing a type II error in specific circumstances.
 To begin, create a variable called `no_type_ii` and set it to `0`.
@@ -158,7 +158,7 @@ Now use a loop to perform the following test 10,000 times.
 Summarize and explain your results.
 
 
-### Project (40%)
+## Project (40%)
 
 Complete the project in a single notebook called `project.ipynb` in your repository.
 The same style should be used as detailed above: explanations in MarkDown and code comments, clean code, and regular commits.
