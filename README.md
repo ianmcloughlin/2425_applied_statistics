@@ -53,7 +53,7 @@ Your grade will be based on the last commit made on or before the deadline.
 
 ### Submit Your Repository Info
 
-**Immediately** submit your GitHub username and repository name using [this form](https://forms.office.com/e/Bninfm2LeU). 
+**Immediately** submit your GitHub username and repository name using [this form](https://forms.office.com/e/kev0hd06GR). 
 The form is only accessible through your ATU student account.  
 You can find your username and repository name in the browser's address bar when viewing your repository on GitHub.
 In the browser's location bar your will see something like `github.com/<username>/<repository_name>/`
